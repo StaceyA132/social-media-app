@@ -14,7 +14,7 @@ function App() {
       {/* Feed */}
       {/* Post */}
     </div>
-  );
+  )
 }
 
 export default App;
